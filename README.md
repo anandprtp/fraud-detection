@@ -55,7 +55,7 @@ This Python project is designed to generate and populate a MySQL database with h
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourGitHubUsername/fraud-detection.git
+   git clone https://github.com/anandprtp/fraud-detection.git
    cd fraud-detection
    ```
 
